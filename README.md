@@ -1,6 +1,6 @@
 # HomeServicesAPI
 
-HomeServicesAPI es una aplicación de API RESTful desarrollada en .NET 6 para proporcionar servicios a domicilio, como plomería y otros servicios del hogar. Esta aplicación está contenerizada usando Docker y se puede probar utilizando Postman.
+HomeServicesAPI es una aplicación de API RESTful desarrollada en .NET 6 para proporcionar servicios a domicilio. Esta aplicación está contenerizada usando Docker y se puede probar utilizando Postman.
 
 ## Tabla de Contenidos
 
