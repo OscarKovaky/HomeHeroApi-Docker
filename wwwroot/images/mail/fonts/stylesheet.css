@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "UniversNextforHSBC_bold";
+  src: url("fonts/UniversNextforHSBC-Bold.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "UniversNextforHSBC";
+  src: url("fonts/UniversNextforHSBC-Light.otf") format("opentype");
+  font-weight: 200;
+  font-style: normal;
+}
